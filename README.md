@@ -22,9 +22,14 @@
     </ul>
   <h2 id="features">Design</h2>
     <ul>
-        <li> <p align="left"> <img src="https://github.com/singhshubham593/eduHelp/blob/master/design/EduHelp%20Front.png" alt="singhshubham593" /> </p></li>
-        <li><p align="left"> <img src="" alt="singhshubham593" /> </p> </li>
-        <li><p align="left"> <img src="" alt="singhshubham593" /> </p> </li>
+        <h2>Intro</h2>
+        <p align="left"> <img src="https://github.com/singhshubham593/eduHelp/blob/master/design/EduHelp%20Front.png" alt="singhshubham593" /> </p>
+        <h2>Branch</h2>
+        <p align="left"> <img src="https://github.com/singhshubham593/eduHelp/blob/master/design/branch%20Placement.png" alt="singhshubham593" /> </p>
+        <h2>about</h2>
+        <p align="left"> <img src="https://github.com/singhshubham593/eduHelp/blob/master/design/about.png" alt="singhshubham593" /> </p> 
+        <h2>Contact</h2>
+        <p align="left"> <img src="https://github.com/singhshubham593/eduHelp/blob/master/design/contact.png" alt="singhshubham593" /> </p> 
     </ul>
 
   <h2 id="usage">Usage</h2>
@@ -33,11 +38,6 @@
         <li>Log in to view and manage your courses, assignments, and grades.</li>
         <li>Communicate with your teachers and peers through the messaging system.</li>
     </ul>
-
-
-
-  <h2 id="license">License</h2>
-    <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more details.</p>
 
   <h2 id="contact">Contact</h2>
     <p>If you have any questions or suggestions, please feel free to reach out:</p>
