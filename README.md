@@ -5,9 +5,8 @@
     <ul>
         <li><a href="#introduction">Introduction</a></li>
         <li><a href="#features">Features</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#design">Design</a></li>
         <li><a href="#usage">Usage</a></li>
-        <li><a href="#contributing">Contributing</a></li>
         <li><a href="#license">License</a></li>
         <li><a href="#contact">Contact</a></li>
     </ul>
@@ -20,6 +19,12 @@
         <li><strong>Student Management</strong>: Keep track of student details, performance, and attendance.</li>
         <li><strong>Course Management</strong>: Create, update, and manage courses and syllabi.</li>
         <li><strong>Resource Management</strong>: Manage educational resources like books, articles, and multimedia content.</li>
+    </ul>
+  <h2 id="features">Design</h2>
+    <ul>
+        <li> <p align="left"> <img src="https://github.com/singhshubham593/eduHelp/blob/master/design/EduHelp%20Front.png" alt="singhshubham593" /> </p></li>
+        <li><p align="left"> <img src="" alt="singhshubham593" /> </p> </li>
+        <li><p align="left"> <img src="" alt="singhshubham593" /> </p> </li>
     </ul>
 
   <h2 id="usage">Usage</h2>
