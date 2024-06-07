@@ -1,0 +1,65 @@
+ <h1>eduHelp</h1>
+  <p>Welcome to <strong>eduHelp</strong>, a comprehensive and user-friendly platform designed to simplify and enhance the educational experience for students, educators, and institutions.</p>
+
+  <h2>Table of Contents</h2>
+    <ul>
+        <li><a href="#introduction">Introduction</a></li>
+        <li><a href="#features">Features</a></li>
+        <li><a href="#installation">Installation</a></li>
+        <li><a href="#usage">Usage</a></li>
+        <li><a href="#contributing">Contributing</a></li>
+        <li><a href="#license">License</a></li>
+        <li><a href="#contact">Contact</a></li>
+    </ul>
+
+  <h2 id="introduction">Introduction</h2>
+  <p><strong>eduHelp</strong> is an open-source project aimed at creating a centralized system for managing various aspects of educational institutions. Whether you're a student looking to keep track of your assignments, an educator managing your classes, or an administrator overseeing the institution's operations, eduHelp provides the tools you need.</p>
+
+  <h2 id="features">Features</h2>
+    <ul>
+        <li><strong>Student Management</strong>: Keep track of student details, performance, and attendance.</li>
+        <li><strong>Course Management</strong>: Create, update, and manage courses and syllabi.</li>
+        <li><strong>Resource Management</strong>: Manage educational resources like books, articles, and multimedia content.</li>
+    </ul>
+
+  <h2 id="usage">Usage</h2>
+    <h3>For Students</h3>
+    <ul>
+        <li>Log in to view and manage your courses, assignments, and grades.</li>
+        <li>Communicate with your teachers and peers through the messaging system.</li>
+    </ul>
+
+
+  <h2 id="contributing">Contributing</h2>
+    <p>We welcome contributions from the community! Here's how you can help:</p>
+    <ol>
+        <li><strong>Fork the Repository</strong></li>
+        <li><strong>Create a New Branch</strong>
+            <pre><code>git checkout -b feature/your-feature-name
+            </code></pre>
+        </li>
+        <li><strong>Make Your Changes</strong></li>
+        <li><strong>Commit Your Changes</strong>
+            <pre><code>git commit -m "Add a descriptive commit message"
+            </code></pre>
+        </li>
+        <li><strong>Push to Your Branch</strong>
+            <pre><code>git push origin feature/your-feature-name
+            </code></pre>
+        </li>
+        <li><strong>Create a Pull Request</strong></li>
+    </ol>
+
+  <h2 id="license">License</h2>
+    <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more details.</p>
+
+  <h2 id="contact">Contact</h2>
+    <p>If you have any questions or suggestions, please feel free to reach out:</p>
+    <ul>
+        <li><strong>Author</strong>: Shubham Singh</li>
+        <li><strong>Email</strong>: <a href="mailto:singhshubham593@gmail.com">singhshubham593@gmail.com</a></li>
+        <li><strong>GitHub</strong>: <a href="https://github.com/singhshubham593">singhshubham593</a></li>
+    </ul>
+    <p>Thank you for using eduHelp! Together, we can make education more accessible and efficient.</p>
+</body>
+</html>
