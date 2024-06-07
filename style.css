@@ -5,6 +5,11 @@
     box-sizing: border-box;
     
 }
+.title h1{
+    display: flex;
+    justify-content: center;
+    padding: 30px 0px 0px 0px;
+} 
 header{
     width: 100vw;
     height: 100vh;
@@ -19,19 +24,19 @@ header{
 }
 .header-content {
     background-color: rgb(50, 135, 104);
-    width: 500px;
-    height: 280px;
+    width: 80vb;
+    height: 30vh;
     position: relative;
-    left: 35px;
-    right: 50px;
-    border-radius: 40%;
+    left: px;
+    right: px;
+    border-radius: 20%;
 }
 .header-content h2{
     font-size: 4vmin;
 }
 .header-content h1 {
     font-size: 7vmin;
-    margin-top: 35px;
+    margin-top: 30px;
     margin-bottom: 10px;
 }
 
@@ -39,10 +44,13 @@ header{
 section {
     width: 100%;
     margin: px auto;
-    backgr: #32b9be;
-}
-.branch .tittle h1{
-    align-items: center;
+    background-color: #dbeced;
+}  
+
+.branch {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 .row {
@@ -50,6 +58,7 @@ section {
     align-items: center;
     width: 100%;
     justify-content: space-between;
+    margin-top: 30px;
 }
 
 .row .col {
@@ -62,9 +71,7 @@ section {
     width: 80%;
 }
 
-.branch .row {
-    margin-top: 50px;
-}
+ 
 h4 {
     font-size: 1min;
     color: rgb(34, 8, 8);
@@ -103,7 +110,11 @@ body , html {
 }
 
 /*About */
- 
+.About .title h1{
+    display: flex;
+    justify-content: center;
+    padding: 30px 0px 15px 0px;
+} 
 .detail {
     width: 80vm;
     height: 100vh;
@@ -155,7 +166,7 @@ body , html {
     background: #fff;
     border-radius: 6px;
     padding:20px 60px 40px 40px;
-    box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+    box-shadow: 0 50px 100px rgba(8, 8, 8, 0.2);
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -179,6 +190,7 @@ body , html {
 }
 .content .left-side .details{
     margin: 14px;
+
     text-align: center;
 }
 .content .left-side .details i{
