@@ -30,25 +30,6 @@
     </ul>
 
 
-  <h2 id="contributing">Contributing</h2>
-    <p>We welcome contributions from the community! Here's how you can help:</p>
-    <ol>
-        <li><strong>Fork the Repository</strong></li>
-        <li><strong>Create a New Branch</strong>
-            <pre><code>git checkout -b feature/your-feature-name
-            </code></pre>
-        </li>
-        <li><strong>Make Your Changes</strong></li>
-        <li><strong>Commit Your Changes</strong>
-            <pre><code>git commit -m "Add a descriptive commit message"
-            </code></pre>
-        </li>
-        <li><strong>Push to Your Branch</strong>
-            <pre><code>git push origin feature/your-feature-name
-            </code></pre>
-        </li>
-        <li><strong>Create a Pull Request</strong></li>
-    </ol>
 
   <h2 id="license">License</h2>
     <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more details.</p>
